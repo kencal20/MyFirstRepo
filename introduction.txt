@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Kenneth Adjetey Adjei-mensah, and I am learning how to use GitHub as part of my journey into technology. I am interested in improving my skills and working on real-world projects.
+
+I enjoy learning new tools and building things that solve problems. This repository marks the beginning of my experience with version control and collaboration.
